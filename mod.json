@@ -1,1 +1,8 @@
-
+{
+  "name": "2FFMusic",
+  "displayName": "Custom Boss Music Pack",
+  "author": "YourName",
+  "description": "Replaces some game music",
+  "version": "1.0",
+  "minGameVersion": "154"
+}
